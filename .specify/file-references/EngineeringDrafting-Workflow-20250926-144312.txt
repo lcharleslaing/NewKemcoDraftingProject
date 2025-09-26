@@ -1,0 +1,2114 @@
+Bulk Process Report
+1. Drafting-New Project to Data Retrieval
+PDF Documents
+PDF: 35354_Electrical_Release.pdf
+Steps
+1. Check for New Assignments
+ 
+Check Microsoft Teams (Planner) for New Assignments in the Drafting Queue 
+Bucket.
+ 
+Filter for Drafter (Your name) name
+ 
+Work on projects with earlierest due date first
+2. Record Assigned Job Information
+- Make Note of Job number (00000)
+- Customer Name
+- Customer's City, State (City, ST)
+ 
+3. Search F:/Jobs for Customer Job Files
+ 
+Find the Customer name in the Jobs folder
+ 
+Find the Customer name in the Jobs folder
+ 
+Find the Customer City, ST, 
+ 
+Find the customer Job number, 
+ 
+Find the "4. Drafting" folder, 
+ 
+Find the "FABS" or "Fabs" folder
+4. Get & Print System Drawings
+ 
+Find and Printout whatever system drawings there are for the job that has to do 
+with the FABS work being assigned.
+ 
+Find and Printout whatever system drawings there are for the job that has to do 
+with the FABS work being assigned.
+ 
+Find and Printout whatever system drawings there are for the job that has to do 
+with the FABS work being assigned.
+5. Printout the KOM (Kick off meeting Spreasheet
+ 
+Printout this spreadsheet that has all of the Kickoff product details. 
+ 
+Printout this spreadsheet that has all of the Kickoff product details. 
+ 
+Printout this spreadsheet that has all of the Kickoff product details. 
+ 
+Printout this spreadsheet that has all of the Kickoff product details. 
+ 
+Printout this spreadsheet that has all of the Kickoff product details. 
+ 
+Printout this spreadsheet that has all of the Kickoff product details. 
+6. Open the "Engineering" Folder
+ 
+Open the "Engineering" Folder
+ 
+Then the "General Design" folder
+ 
+Then the "General Design" folder
+7. Printout Engineering Design Spreadsheet
+ 
+Printout the "Heater Design" sheet
+ 
+Printout the "Heater Design" sheet
+ 
+Printout the "Heater Cross Section" sheet
+8. Printout "Spray Nozzles" spreadsheet
+ 
+Printout "Spray Nozzles" spreadsheet
+ 
+Printout "Spray Nozzles" spreadsheet
+9. Open the "Engineering/Releases" folder
+- Open and the "Heater Release"
+- Print "Gas Train Release" tab
+- Print "Heater Release" tab
+ 
+ 
+ 
+ 
+10. Open "Mechanical" release
+- Open and the "Mechanical Release"
+ 
+ 
+11. Print Tank Releases
+- Print "Fresh Water Release" tab
+- Print "Tank Long Lead Release" tab
+- Print "Wastewater Release" tab
+ 
+ 
+ 
+12. Check for Inventor Models/Drawings from Mike's setup
+- Search Inventor (Project Explorer) for Job Number
+- Open the Job number folder
+- Open the "1. Drafting" Folder
+- Open the Job number folder
+- Open the "FABS" folder
+- "Get" all Product Drawings/Models/Assemblies that are required for the Customers Job to 
+be Completed.
+ 
+ 
+ 
+ 
+ 
+ 
+Process History
+Process: Created September 17, 2025 at 01:03 PM, Last Updated September 24, 2025 at 
+08:39 PM
+Step History
+Step 1: Check for New Assignments - Created September 17, 2025 at 01:08 PM, Updated 
+September 24, 2025 at 06:56 PM
+Images for Step 1
+Image 1: image_m2gLJK6.png - Uploaded September 22, 2025 at 03:53 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Image 2: image_9kYnHVd.png - Uploaded September 22, 2025 at 03:55 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 2)
+Image 3: image_whCYcnm.png - Uploaded September 22, 2025 at 03:57 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 3)
+Files for Step 1
+File 1: 35354_Electrical_Release.pdf - Uploaded September 18, 2025 at 03:20 PM, Updated 
+September 23, 2025 at 06:35 PM
+Step 2: Record Assigned Job Information - Created September 17, 2025 at 01:08 PM, 
+Updated September 24, 2025 at 06:57 PM
+Images for Step 2
+Image 1: image_zeEloHk.png - Uploaded September 17, 2025 at 02:08 PM, Updated 
+September 23, 2025 at 06:35 PM
+Step 3: Search F:/Jobs for Customer Job Files - Created September 17, 2025 at 01:35 PM, 
+Updated September 24, 2025 at 06:59 PM
+Images for Step 3
+Image 1: image_KW32Zdx.png - Uploaded September 17, 2025 at 02:11 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 5)
+Image 2: image_gbWEblp.png - Uploaded September 17, 2025 at 02:10 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 4)
+Image 3: image_tUxw1Xq.png - Uploaded September 17, 2025 at 02:10 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 3)
+Image 4: image_xCGDYdr.png - Uploaded September 17, 2025 at 02:10 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 2)
+Image 5: image_uw47JI6.png - Uploaded September 17, 2025 at 02:09 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Image 6: image_JMJntHi.png - Uploaded September 17, 2025 at 02:10 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Step 4: Get & Print System Drawings - Created September 17, 2025 at 02:17 PM, Updated 
+September 19, 2025 at 07:37 PM
+Images for Step 4
+Image 1: image_0qghX35.png - Uploaded September 17, 2025 at 02:38 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Image 2: image_kevKKTQ.png - Uploaded September 17, 2025 at 02:38 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Image 3: image_qfdcXVP.png - Uploaded September 17, 2025 at 02:27 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Step 5: Printout the KOM (Kick off meeting Spreasheet - Created September 17, 2025 at 
+02:38 PM, Updated September 19, 2025 at 07:37 PM
+Images for Step 5
+Image 1: image_d0CkDOM.png - Uploaded September 17, 2025 at 02:41 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Image 2: image_ythTorp.png - Uploaded September 17, 2025 at 02:41 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Image 3: image_piTE8D3.png - Uploaded September 17, 2025 at 02:41 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Image 4: image_Oh4ZO6r.png - Uploaded September 17, 2025 at 02:39 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Image 5: image_V80PJ0s.png - Uploaded September 17, 2025 at 02:40 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Image 6: image_Q9W77zV.png - Uploaded September 17, 2025 at 02:41 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Step 6: Open the "Engineering" Folder - Created September 17, 2025 at 02:43 PM, 
+Updated September 17, 2025 at 02:45 PM
+Images for Step 6
+Image 1: image_mA1LHLx.png - Uploaded September 17, 2025 at 02:45 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 2)
+Image 2: image_5D42Bim.png - Uploaded September 17, 2025 at 02:44 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 2)
+Image 3: image_copvO6S.png - Uploaded September 17, 2025 at 02:43 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Step 7: Printout Engineering Design Spreadsheet - Created September 17, 2025 at 02:45 
+PM, Updated September 18, 2025 at 02:32 PM
+Images for Step 7
+Image 2: image_uO0KEAo.png - Uploaded September 17, 2025 at 02:47 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Image 3: image_opzsd33.png - Uploaded September 17, 2025 at 02:48 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Image 3: image_TyhFRAD.png - Uploaded September 17, 2025 at 02:48 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 2)
+Step 8: Printout "Spray Nozzles" spreadsheet - Created September 17, 2025 at 02:49 PM, 
+Updated September 17, 2025 at 02:50 PM
+Images for Step 8
+Image 1: image_CmW9wnG.png - Uploaded September 17, 2025 at 02:49 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Image 2: image_Dt1vmXF.png - Uploaded September 17, 2025 at 02:50 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Step 9: Open the "Engineering/Releases" folder - Created September 17, 2025 at 02:50 
+PM, Updated September 17, 2025 at 03:06 PM
+Images for Step 9
+Image 1: image_DAyJzcG.png - Uploaded September 17, 2025 at 02:51 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 2: image_kgw9zbZ.png - Uploaded September 17, 2025 at 02:53 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 3: image_Ln8Tj7m.png - Uploaded September 17, 2025 at 03:06 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 4: image_uI75O0n.png - Uploaded September 17, 2025 at 03:06 PM, Updated 
+September 23, 2025 at 06:35 PM
+Step 10: Open "Mechanical" release - Created September 17, 2025 at 03:04 PM, Updated 
+September 17, 2025 at 03:09 PM
+Images for Step 10
+Image 1: image_J0nGzJa.png - Uploaded September 17, 2025 at 03:04 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 2: image_Dhqo0ep.png - Uploaded September 17, 2025 at 03:08 PM, Updated 
+September 23, 2025 at 06:35 PM
+Step 11: Print Tank Releases - Created September 17, 2025 at 03:09 PM, Updated 
+September 17, 2025 at 06:37 PM
+Images for Step 11
+Image 1: image_pijxJ8U.png - Uploaded September 17, 2025 at 03:10 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 2: image_e8Mel9j.png - Uploaded September 17, 2025 at 03:12 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 3: image_8kO2lZF.png - Uploaded September 17, 2025 at 03:12 PM, Updated 
+September 23, 2025 at 06:35 PM
+Step 12: Check for Inventor Models/Drawings from Mike's setup - Created September 
+17, 2025 at 03:44 PM, Updated September 17, 2025 at 06:16 PM
+Images for Step 12
+Image 1: image_OijPEN4.png - Uploaded September 17, 2025 at 03:49 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 2: image_Od9kEvX.png - Uploaded September 17, 2025 at 03:50 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 3: image_ygJNRrG.png - Uploaded September 17, 2025 at 06:08 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 4: image_wcqesi1.png - Uploaded September 17, 2025 at 06:08 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 5: image_3clhs8J.png - Uploaded September 17, 2025 at 06:09 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 6: image_0akzBlT.png - Uploaded September 17, 2025 at 06:09 PM, Updated 
+September 23, 2025 at 06:35 PM
+ 
+2. Template: Drafting/Engineering Flow
+Steps
+1. Check for New Assignments
+ 
+Check Microsoft Teams (Planner) for New Assignments in the Drafting Queue 
+Bucket.
+ 
+Filter for Drafter (Your name) name
+ 
+Work on projects with earlierest due date first
+2. Record Assigned Job Information
+- Make Note of Job number (00000)
+- Customer Name
+- Customer's City, State (City, ST)
+ 
+3. Search F:/Jobs for Customer Job Files
+ 
+Find the Customer name in the Jobs folder
+ 
+Find the Customer name in the Jobs folder
+ 
+Find the Customer City, ST, 
+ 
+Find the customer Job number, 
+ 
+Find the "4. Drafting" folder, 
+ 
+Find the "FABS" or "Fabs" folder
+4. Get & Print System Drawings
+ 
+Find and Printout whatever system drawings there are for the job that has to do 
+with the FABS work being assigned.
+ 
+Find and Printout whatever system drawings there are for the job that has to do 
+with the FABS work being assigned.
+ 
+Find and Printout whatever system drawings there are for the job that has to do 
+with the FABS work being assigned.
+5. Printout the KOM (Kick off meeting Spreasheet
+ 
+Printout this spreadsheet that has all of the Kickoff product details. 
+ 
+Printout this spreadsheet that has all of the Kickoff product details. 
+ 
+Printout this spreadsheet that has all of the Kickoff product details. 
+ 
+Printout this spreadsheet that has all of the Kickoff product details. 
+ 
+Printout this spreadsheet that has all of the Kickoff product details. 
+ 
+Printout this spreadsheet that has all of the Kickoff product details. 
+6. Open the "Engineering" Folder
+ 
+Open the "Engineering" Folder
+ 
+Then the "General Design" folder
+ 
+Then the "General Design" folder
+7. Printout Engineering Design Spreadsheet
+ 
+Printout the "Heater Design" sheet
+ 
+Printout the "Heater Design" sheet
+ 
+Printout the "Heater Cross Section" sheet
+8. Printout "Spray Nozzles" spreadsheet
+ 
+Printout "Spray Nozzles" spreadsheet
+ 
+Printout "Spray Nozzles" spreadsheet
+9. Open the "Engineering/Releases" folder
+- Open and the "Heater Release"
+- Print "Gas Train Release" tab
+- Print "Heater Release" tab
+ 
+ 
+ 
+ 
+10. Open "Mechanical" release
+- Open and the "Mechanical Release"
+ 
+ 
+11. Print Tank Releases
+- Print "Fresh Water Release" tab
+- Print "Tank Long Lead Release" tab
+- Print "Wastewater Release" tab
+ 
+ 
+ 
+12. Check for Inventor Models/Drawings from Mike's setup
+- Search Inventor (Project Explorer) for Job Number
+- Open the Job number folder
+- Open the "1. Drafting" Folder
+- Open the Job number folder
+- Open the "FABS" folder
+- "Get" all Product Drawings/Models/Assemblies that are required for the Customers Job to 
+be Completed.
+ 
+ 
+ 
+ 
+ 
+ 
+13. D365 - Verify Product Part Numbers for Drafting package
+- Open Dynamics D365
+- Navigate to "Modules"
+- Navigate to "Product Information Management"
+- Navigate to "All Projects"
+- Enter JOB Number and Click "Project ID"
+- Select JOB Number
+- Click "Item Requirements"
+- Make note of the Products that are needed to create, number and release the Drawing 
+package for.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14. Rename Inventor Drawings (Heater/Tank Assemblies)
+- Navigate to the Inventor Vault Project directory (JOB Number)
+- Locate Drawing and right click and choose "Rename"
+- Click "Next"
+- Refer to the Engineering Design Sheets that were printed or open the file again.
+- Verify the "Can Size" for renaming the drawing.
+- Enter the New name of the Drawing (35354-01 42X12 HTR) and click "Finish"
+- Once the results of the Rename have displayed, Click "Close" and the new renaming is 
+complete.
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15. Get/Checkout Inventor Drawings & Assemblies
+- Checkout the proper Drawings/Assemblies within the customer vault folder.
+- Right Click and Choose "Get" to get download the local copies of the Drawings, Assemblies 
+and Parts needed for Drawing Package.
+- Choose Children and Click "OK"
+- Once Downloaded, Right click and choose "Checkout"
+- Files will be BLUE with a Checkmark next to it when checkout is complete.
+ 
+ 
+ 
+ 
+16. Open Drawings & Assemblies in Inventor
+- Open Inventor Application
+- Ensure "KEMCO VAULT" Project is Checked
+- Click the open button
+- Navigate to the "Jobs F" directory, then locate the Customer name, City State, then JOB 
+Number and open it.
+- Open "4. Drafting" folder, then "Fabs"
+- Select the items you want to open and click "Open"
+- The files should now be open
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17. Heater Setup Drawing Scale/Views & Part Number Assignment
+- Open .idw for current project
+- Adjust the view scale to ensure the content will fit and be readable
+- Open the Heater Assembly
+- Click "Enter Parameters" button in the iLogic Forms Panel
+- Goto "Drawing Numbers" tab on Form
+- testy test
+- Edit the Heater Final Assy part number
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18. Assembly Mod Piping View Representation Update
+- Open Heater Assy (ffa.iam)
+- Activate Mod Piping View for editing
+- Exclude Gas Train Assembly from Mod Piping View Representation
+
+ 
+ 
+ 
+19. Mod Piping Assembly Hose Assy Documentation
+- Edit Mod Pipe Assembly
+- Measure Hose Length, round to closest inch, then add 3" to length
+- 27.096 = 27 + 3 = 30"
+- Open Dynamics D365 and Go to "Released Products"
+- Search for "894-01-*" (Item Number search)
+- Filter for Hose Size and length
+- Select correct Hose Assembly
+- Open Assembly Form again and Select "Hose Part Number / Length" tab
+- Enter the measured Hose length and update length and Hose Part Number
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20. Gas Train Assembly/Drawing Initial Setup
+- Open Gas Train Assembly
+- Edit "Pilot Detail" View Representation, activate and edit it
+- Remove all components except the Pilot Detail Components
+- Navigate to Gas Train Drawing Sheet
+- Open Gas Train Template Drawing within the Customer FABS folder
+- Copy and Paste BOM and Drawing views from the template drawing to the Customer Job 
+Drawing
+- Repair any broken Balloons/Dimensions
+- Click "Open Data" form and complete form
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21. Verify Inventor Heater Assembly (FFA.iam) Form Values match Engineering Documents
+- open reference files or use printouts
+- Update Ballast Packing Rings
+- Verify All Assembly form Values
+- Verify Heater Model
+- Verify Location (US, CANADA)
+- Verify Heater Diameter
+- Verify Heater Height 152" / 12 = 12.67ft = 12'
+- Verify Stack Diameter = 18"
+- Verify Application = standard (because it is not a food grade application, it is concrete)
+- Verify Material = 304 Stainless because the Spray nozzle is spec'd out as CS (Common 
+Steel)
+- Verify Burner Model (Gas Train) = Maxon #487M
+- Verify Gas Train Position = Left
+- Verify Heater Mounting = Pumped
+- Verify Gauge Cocks = NSF (Because NSF has become Standard)
+- Verify Temp Switch Material = Stainless (Per the decision to not use brass any more)
+- Verify Packaging (Mod Piping Typ) = Modular Piping (because it is now the standard)
+- Verify Mod Piping (Transducer Material) = SS316 Ends because we are no longer using 
+Brass hose ends
+- Verify Modulating Valve (Yes/No) = No (Because it is not spec'd out)
+- Verify Media Frame Height (54 Standard) 
+- Verify Gas = NG
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22. Spray Nozzle and Nipple Size Verify/Update
+- Check Nipple and Spray Nozzle size on Drawing
+- Check Water Inlet Size = 2"
+- Update Spray Nozzle
+- Select Spray nozzle in the Assy model
+- Open Assy Form and click "Replace Spray Nozzle"
+- Select Local working folder
+- Select Libraries
+- Select Fittings
+- Select Spray Nozzles
+- Select Spray Nozzle Size
+- WTF WTH
+- Select Engineering Spec'd Nozzle and click "Open"
+- Update Spray Nozzle Nipple
+- Select Nipple in Assy Model
+- Click "Change Spray Nozzle Nipple Size"
+- Choose required nipple size and click Okay
+- Pull down on the spray nozzle to get the Model to update the constraints
+- Verify Spray Nozzle dimensions between Engineering Values and Model Values
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23. DRAFTING: BOM Updates to Heater Final/Modular Piping Sheets
+ 
+Open BOM in edit mode and expand Heater Mod Piping Assy
+ 
+Hide Mod Pipe Assy
+ 
+Hide All other components that are not part of the Mod Pipe Assy and Click OK
+ 
+Move the top view down and adjust the BOM column width and hide any blank rows 
+in the BOM
+- Open the Heater Final Sheet and open the BOM for edits
+ 
+Hide the Mod Pipe Assy Parts that are now displaying after changing the Mod Pipe 
+Drawing Sheet BOM
+- Export BOM to Excel file for verifying that BOM in inventor matches the intended BOM 
+from Engineering.
+- Save the Drawing
+ 
+24. DRAFTING: Heater Assembly Drawing Creation (.idw)
+- Sheet 1: HEATER FINAL
+ 
+[ ] Ensure all TITLEBLOCK FORMS DATA have been filled out.
+ 
+[ ] Ensure all TITLEBLOCK FORMS DATA have been filled out.
+ 
+[] Ensure Assembly Part Numbers have been completed and updated.
+ 
+[] Ensure Assembly Part Numbers have been completed and updated.
+ 
+[ ] Adjust any views to conform to clear and legible Drawing practices
+ 
+[ ] Verify all Balloons exist on sheet in the most appropriate view
+ 
+[ ] Verify BOM is reordered and renumbered
+- [ ] Verify Note: "ITEMS WITH QUANTITY 0 ARE PURCHASED FROM STEWART STAINLESS 
+AS PART OF ITEM 
+ 
+[ ] Adjust all centerlines to mate up with their component.
+ 
+Sheet 2: HEATER WELDMENT
+ 
+[ ] Adjust any views to conform to clear and legible Drawing practices
+ 
+[ ] Verify all Balloons exist on sheet in the most appropriate view
+ 
+[ ] Verify BOM is reordered and renumbered
+ 
+[ ] Verify Weld note as WELD OUTSIDE ONLY or WELD INSIDE AND OUTSIDE
+ 
+[ ] Verify the correct COUPLING WELD VIEWS are being displayed for WELD INSIDE 
+AND OUTSIDE/OUTSIDE ONLY
+ 
+[ ] Verify Note: "ITEMS WITH QUANTITY 0 ARE PURCHASED FROM STEWART 
+STAINLESS AS PART OF ITEM 
+ 
+[ ] Verify that Leader Note: WELD SEAM DISPLAYS for all appropriate views.
+ 
+[ ] Remove any duplicated 0, 90, 180, 270 deg leader callouts.
+ 
+[ ] Remove any duplicated 0, 90, 180, 270 deg leader callouts.
+- [ ] Adjust all centerlines to mate up with their component.
+ 
+[ ] If SUCTION FITTING HEIGHTS are not determined yet, hide, SUCTION FITTING 
+HEIGHT and replace it with a "*" for the dimension
+ 
+[ ] If SUCTION FITTING HEIGHTS are not determined yet, hide, SUCTION FITTING 
+HEIGHT and replace it with a "*" for the dimension
+ 
+Sheet 3: HEATER SHELL
+ 
+[ ] Adjust any views to conform to clear and legible Drawing practices
+ 
+[ ] Verify all Balloons exist on sheet in the most appropriate view
+ 
+[ ] Verify BOM is reordered and renumbered
+- [ ] Verify Note: "ITEMS WITH QUANTITY 0 ARE PURCHASED FROM STEWART STAINLESS 
+AS PART OF ITEM 
+ 
+[ ] Remove any duplicated 0, 90, 180, 270 deg leader callouts.
+ 
+[ ] Adjust all centerlines to mate up with their component.
+ 
+[ ] Adjust all centerlines to mate up with their component.
+ 
+[ ] Verify Weld note as WELD OUTSIDE ONLY or WELD INSIDE AND OUTSIDE
+- [ ] Update Weld symbols for WELDING INSIDE AND OUTSIDE/OUTSIDE ONLY
+- [ ] If FLATBARS are called out separately or as sub-assemblies, verify that all section views 
+have the appropriate balloons called out
+- Sheet 4: HEATER STACK
+ 
+[ ] Adjust any views to conform to clear and legible Drawing practices
+ 
+[ ] Adjust any views to conform to clear and legible Drawing practices
+ 
+[ ] Verify all Balloons exist on sheet in the most appropriate view
+ 
+[ ] Verify BOM is reordered and renumbered
+ 
+[ ] Remove any duplicated 0, 90, 180, 270 deg leader callouts.
+ 
+[ ] Adjust all centerlines to mate up with their component.
+- Sheet 5: SUCTION FITTING
+ 
+[ ] Adjust any views to conform to clear and legible Drawing practices
+ 
+[ ] Verify all Balloons exist on sheet in the most appropriate view
+ 
+[ ] Verify BOM is reordered and renumbered
+ 
+[ ] Adjust all centerlines to mate up with their component.
+- Sheet 6: GAS TRAIN
+ 
+[ ] Adjust any views to conform to clear and legible Drawing practices
+ 
+[ ] Verify all Balloons exist on sheet in the most appropriate view
+ 
+[ ] Verify all Balloons exist on sheet in the most appropriate view
+ 
+[ ] Verify BOM is reordered and renumbered
+- Sheet 7: MODULAR PIPING
+ 
+[ ] Adjust any views to conform to clear and legible Drawing practices
+ 
+[ ] Verify all Balloons exist on sheet in the most appropriate view
+ 
+[ ] Verify all Balloons exist on sheet in the most appropriate view
+ 
+[ ] Verify BOM is reordered and renumbered
+25. Print out Drawings & Export BOM to be checked against Engineering Long Lead BOM
+ 
+Print out Full size Drawing package
+ 
+Export Inventor Drawing BOM to excel using iLogic Export command buttons
+- Save Exported BOM to the Customers Jobs folder for the project job number
+26. Explanation-Exported Inventor Drawing BOM for heater assembly
+ 
+Printout BOM's to use for BOM matching Long Lead Items
+TO BE USED FOR CREATING DYNAMICS D365 BOM STRUCTURE
+ 
+Print Package
+ 
+Heater Final
+ 
+Heater Weldment
+ 
+Heater Shell
+ 
+Heater Stack
+ 
+Suction Fitting
+ 
+Gas Train
+- Modular Piping
+27. Export Inventor BOM
+ 
+Open Inventor .idw that you need the BOM exported for from either Inventor or 
+Vault
+ 
+Close the default forms that open up
+ 
+Click on "EXPORT BOM FOR DYNAMICS"
+ 
+if you get the error in the image, you need to close the previously opened excel file 
+before running again.
+ 
+The Excel file should open on it's own
+ 
+Select all tabs in the excel spreadsheet
+ 
+Press CTRL+P to print preview
+ 
+Click "Page Setup" -> "Header/Footer" tab
+ 
+Click "Custom Header" button
+ 
+Insert the Tab name below the filename
+ 
+Click Okay, then Okay to close Page setup
+ 
+Print to your choice of printers
+ 
+Click "File" -> "Save as"
+ 
+Click "Browse" then choose "Jobs" directory
+ 
+Choose Customer directory -> Customer City a& State -> Job number -> Drafting -> 
+ 
+Choose Customer directory -> Customer City a& State -> Job number -> Drafting -> 
+ 
+Choose Customer directory -> Customer City a& State -> Job number -> Drafting -> 
+ 
+Choose Customer directory -> Customer City a& State -> Job number -> Drafting -> 
+ 
+Choose the proper Folder for the job you are doing -> "Save"
+Process History
+Process: Created September 24, 2025 at 09:05 PM, Last Updated September 24, 2025 at 
+09:05 PM
+Step History
+Step 1: Check for New Assignments - Created September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Images for Step 1
+Image 1: image_m2gLJK6.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Image 2: image_9kYnHVd.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 2)
+Image 3: image_whCYcnm.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 3)
+Step 2: Record Assigned Job Information - Created September 24, 2025 at 09:05 PM, 
+Updated September 24, 2025 at 09:05 PM
+Images for Step 2
+Image 1: image_zeEloHk.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Step 3: Search F:/Jobs for Customer Job Files - Created September 24, 2025 at 09:05 PM, 
+Updated September 24, 2025 at 09:05 PM
+Images for Step 3
+Image 1: image_KW32Zdx.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 5)
+Image 2: image_gbWEblp.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 4)
+Image 3: image_tUxw1Xq.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 3)
+Image 4: image_xCGDYdr.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 2)
+Image 5: image_uw47JI6.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Image 6: image_JMJntHi.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Step 4: Get & Print System Drawings - Created September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Images for Step 4
+Image 1: image_0qghX35.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Image 2: image_kevKKTQ.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Image 3: image_qfdcXVP.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Step 5: Printout the KOM (Kick off meeting Spreasheet - Created September 24, 2025 at 
+09:05 PM, Updated September 24, 2025 at 09:05 PM
+Images for Step 5
+Image 1: image_d0CkDOM.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Image 2: image_ythTorp.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Image 3: image_piTE8D3.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Image 4: image_Oh4ZO6r.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Image 5: image_V80PJ0s.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Image 6: image_Q9W77zV.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Step 6: Open the "Engineering" Folder - Created September 24, 2025 at 09:05 PM, 
+Updated September 24, 2025 at 09:05 PM
+Images for Step 6
+Image 1: image_mA1LHLx.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 2)
+Image 2: image_5D42Bim.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 2)
+Image 3: image_copvO6S.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Step 7: Printout Engineering Design Spreadsheet - Created September 24, 2025 at 09:05 
+PM, Updated September 24, 2025 at 09:05 PM
+Images for Step 7
+Image 2: image_uO0KEAo.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Image 3: image_opzsd33.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Image 3: image_TyhFRAD.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 2)
+Step 8: Printout "Spray Nozzles" spreadsheet - Created September 24, 2025 at 09:05 PM, 
+Updated September 24, 2025 at 09:05 PM
+Images for Step 8
+Image 1: image_CmW9wnG.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Image 2: image_Dt1vmXF.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Step 9: Open the "Engineering/Releases" folder - Created September 24, 2025 at 09:05 
+PM, Updated September 24, 2025 at 09:05 PM
+Images for Step 9
+Image 1: image_DAyJzcG.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 2: image_kgw9zbZ.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 3: image_Ln8Tj7m.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 4: image_uI75O0n.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Step 10: Open "Mechanical" release - Created September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Images for Step 10
+Image 1: image_J0nGzJa.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 2: image_Dhqo0ep.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Step 11: Print Tank Releases - Created September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Images for Step 11
+Image 1: image_pijxJ8U.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 2: image_e8Mel9j.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 3: image_8kO2lZF.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Step 12: Check for Inventor Models/Drawings from Mike's setup - Created September 
+24, 2025 at 09:05 PM, Updated September 24, 2025 at 09:05 PM
+Images for Step 12
+Image 1: image_OijPEN4.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 2: image_Od9kEvX.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 3: image_ygJNRrG.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 4: image_wcqesi1.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 5: image_3clhs8J.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 6: image_0akzBlT.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Step 13: D365 - Verify Product Part Numbers for Drafting package - Created September 
+24, 2025 at 09:05 PM, Updated September 24, 2025 at 09:05 PM
+Images for Step 13
+Image 1: image_ONRo6QB.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 2: image_jfO4lID.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 3: image_CDH6v3R.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 4: image_QL3Co13.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 5: image_nlPOQ3z.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 6: image_Dm6a0Ng.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 7: image_qJBw7Ul.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Step 14: Rename Inventor Drawings (Heater/Tank Assemblies) - Created September 
+24, 2025 at 09:05 PM, Updated September 24, 2025 at 09:05 PM
+Images for Step 14
+Image 1: image_88f4p3Y.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 2: image_49ViUwO.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 3: image_G5u9e09.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 5: image_gcq4vvA.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 6: image_Wqg4CSo.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 7: image_hDf2RMa.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 8: image_xIG5YkE.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Step 15: Get/Checkout Inventor Drawings & Assemblies - Created September 24, 2025 
+at 09:05 PM, Updated September 24, 2025 at 09:05 PM
+Images for Step 15
+Image 1: image_IuIJpxd.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 2: image_ecMTJ2T.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 3: image_sQIgzBd.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 4: image_Zmhf9N1.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Step 16: Open Drawings & Assemblies in Inventor - Created September 24, 2025 at 
+09:05 PM, Updated September 24, 2025 at 09:05 PM
+Images for Step 16
+Image 1: image_O72vtQc.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 2: image_Le15b23.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 3: image_wWS47Km.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 4: image_IDjjcQH.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 5: image_LySJ3wt.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 6: image_PFaVA9Q.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 7: image_mWiHfpo.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Step 17: Heater Setup Drawing Scale/Views & Part Number Assignment - Created 
+September 24, 2025 at 09:05 PM, Updated September 24, 2025 at 09:05 PM
+Images for Step 17
+Image 1: image_HdgjwFo.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 2: image_Xlz3kZj.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 3: image_K3xElSx.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 4: image_bE0lC2H.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 5: image_6N4cHv3.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 6: image_ZVvyfoK.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 7: image_0MmVPMq.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 8: image_p0L6ZMM.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Step 18: Assembly Mod Piping View Representation Update - Created September 24, 
+2025 at 09:05 PM, Updated September 24, 2025 at 09:05 PM
+Images for Step 18
+Image 1: image_LGo60Ta.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 2: image_os3aCfN.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 3: image_jjRrqsq.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Step 19: Mod Piping Assembly Hose Assy Documentation - Created September 24, 2025 
+at 09:05 PM, Updated September 24, 2025 at 09:05 PM
+Images for Step 19
+Image 1: image_B1ulXt9.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 2: image_UWiv6YF.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 3: image_qmL4Jtp.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 4: image_q4hNYqh.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 5: image_3juJGA7.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 6: image_yErDp8D.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 7: image_bJSxz9Y.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 8: image_mSdu5KX.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 9: image_pX46oh2.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Step 20: Gas Train Assembly/Drawing Initial Setup - Created September 24, 2025 at 
+09:05 PM, Updated September 24, 2025 at 09:05 PM
+Images for Step 20
+Image 1: image_WxavCW2.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 2: image_chHH3gn.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 3: image_VLCMENB.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 4: image_ncmJbFt.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 5: image_Tb08TVr.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 6: image_2y5HxIe.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 7: image_R6aK76r.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 8: image_hMkGROw.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 9: image_aTN5EVh.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 10: image_sRveek7.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 11: image_npythPa.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 12: image_quHVj82.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Step 21: Verify Inventor Heater Assembly (FFA.iam) Form Values match Engineering 
+Documents - Created September 24, 2025 at 09:05 PM, Updated September 24, 2025 at 
+09:05 PM
+Images for Step 21
+Image 1: image_KpCs4rR.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 2: image_z948dem.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 3: image_TBI0HPS.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 4: image_Bbc1YUY.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 5: image_OfB93Ue.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 6: image_fp0hJOD.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 7: image_J90CyM0.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 8: image_9YbJCda.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 9: image_kn71riE.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 10: image_FbSo4B5.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 11: image_w7IFyKu.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 12: image_O8GD2Mg.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 13: image_XlRkBRv.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 14: image_dOKDZBv.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 15: image_H1lwLjn.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 16: image_RwKuQ4R.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 17: image_JlaMics.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 18: image_fHQUSw5.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 19: image_1FLR17x.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 20: image_95R3v20.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 21: image_pkrWwn5.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 22: image_1is0Uk3.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Step 22: Spray Nozzle and Nipple Size Verify/Update - Created September 24, 2025 at 
+09:05 PM, Updated September 24, 2025 at 09:05 PM
+Images for Step 22
+Image 1: image_DzWfEag.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 2: image_viK1wja.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 3: image_vcsIl4k.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 4: image_wDGxu4M.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 5: image_mMZUveB.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 6: image_9tpMfKd.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 7: image_vcjd2LE.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 8: image_bPby7yu.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 9: image_9dqMo2t.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 10: image_ViWex4e.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 11: image_tUAd3Xh.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 12: image_dtUxxCw.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 13: image_1lG74QY.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 14: image_u01SVRE.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 15: image_LB6WSje.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 16: image_FMIk8CM.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Step 23: DRAFTING: BOM Updates to Heater Final/Modular Piping Sheets - Created 
+September 24, 2025 at 09:05 PM, Updated September 24, 2025 at 09:05 PM
+Images for Step 23
+Image 1: image_wHmmTwc.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Image 2: image_r1FVUgc.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Image 3: image_AeRQonX.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 2)
+Image 4: image_wV7loLO.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 3)
+Image 5: image_rMkNu9z.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 4)
+Image 6: image_Ftngfe0.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 6)
+Step 24: DRAFTING: Heater Assembly Drawing Creation (.idw) - Created September 24, 
+2025 at 09:05 PM, Updated September 24, 2025 at 09:05 PM
+Images for Step 24
+Image 1: image_NzhBbPD.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 5)
+Image 2: image_qlKBMYm.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 2)
+Image 3: image_DsLnoY0.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 3)
+Image 4: image_71tyKoJ.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 4)
+Image 5: image_FgCY7qx.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 6)
+Image 6: image_kbiMhwY.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 8)
+Image 7: image_gCfxF72.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 9)
+Image 8: image_MxUnZLG.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 10)
+Image 9: image_nKe8qrn.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 11)
+Image 10: image_4d25XHK.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 12)
+Image 11: image_FY55amF.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 13)
+Image 12: image_esn1Bz6.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 14)
+Image 13: image_tU3VJVy.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 15)
+Image 14: image_74Te345.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 16)
+Image 15: image_NDI3Qm6.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 17)
+Image 16: image_ttpjIeG.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 17)
+Image 17: image_mKDJF9z.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 19)
+Image 18: image_rMU7y1u.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 19)
+Image 19: image_R99rfjo.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 20)
+Image 20: image_wxXVOcX.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 21)
+Image 21: image_TBYzcGX.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 22)
+Image 22: image_lfmWoUx.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 23)
+Image 23: image_Nlh2Btr.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 25)
+Image 24: image_gmHcMXP.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 26)
+Image 25: image_Vs3wZ8o.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 26)
+Image 26: image_gwHUAuG.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 27)
+Image 27: image_vTGbOE8.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 2)
+Image 28: image_0p7nF0z.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 3)
+Image 29: image_Z0P8PcI.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 31)
+Image 30: image_z6nEtun.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 31)
+Image 31: image_KgNZCfv.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 32)
+Image 32: image_DlF5dtK.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 33)
+Image 33: image_R4fNiKi.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 34)
+Image 34: image_nBxCvb2.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 35)
+Image 35: image_MnZ0Se2.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 37)
+Image 36: image_INvbXqF.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 38)
+Image 37: image_oENkWz9.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 39)
+Image 38: image_J0g80u5.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 40)
+Image 39: image_uJZhJDp.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 42)
+Image 40: image_p8Ek2uY.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 43)
+Image 41: image_BKRxWIf.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 44)
+Image 42: image_nQfLQJy.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 43)
+Image 43: image_fiJd4ot.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 46)
+Image 44: image_kJWITqh.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 47)
+Image 45: image_vFmaWS6.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 48)
+Image 46: image_TnfVe7q.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 47)
+Step 25: Print out Drawings & Export BOM to be checked against Engineering Long 
+Lead BOM - Created September 24, 2025 at 09:05 PM, Updated September 24, 2025 at 
+09:05 PM
+Images for Step 25
+Image 1: image_6EY8kWv.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Image 2: image_Scb2TLm.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 2)
+Step 26: Explanation-Exported Inventor Drawing BOM for heater assembly - Created 
+September 24, 2025 at 09:05 PM, Updated September 24, 2025 at 09:05 PM
+Images for Step 26
+Image 1: image_xD5yAxM.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Image 2: image_vYQ7kUh.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 2)
+Image 3: image_o7CxoHb.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 3)
+Image 4: image_n0a305K.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 4)
+Image 5: image_NXCrGsN.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 5)
+Image 6: image_0yqNP8C.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 6)
+Image 7: image_TDBLD5G.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 7)
+Image 8: image_ciympre.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 8)
+Step 27: Export Inventor BOM - Created September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM
+Images for Step 27
+Image 1: image_XtpYUTV.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 5)
+Image 2: image_Ka0cnGH.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 1)
+Image 3: image_T1F6JTH.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 3)
+Image 4: image_Wc8SyvN.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 6)
+Image 5: image_F25i4hT.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 2)
+Image 6: image_LgPrICN.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 4)
+Image 7: image_Tjb0KuM.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 7)
+Image 8: image_q0oxIqN.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 8)
+Image 9: image_D301do7.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 9)
+Image 10: image_dGGpNGF.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 10)
+Image 11: image_mTliiqg.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 11)
+Image 12: image_rT3XhfN.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 12)
+Image 13: image_cT6Fiju.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 13)
+Image 14: image_ouD7Yyd.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 14)
+Image 15: image_76UIVZQ.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 15)
+Image 16: image_jkRKDzI.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 15)
+Image 17: image_wRLxA9q.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 15)
+Image 18: image_cBPLLV4.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 15)
+Image 19: image_GH4zi6Y.png - Uploaded September 24, 2025 at 09:05 PM, Updated 
+September 24, 2025 at 09:05 PM (Associated with substep 16)
+ 
+3. Drafting-Autodesk Inventor Get, Checkout & Open Process
+Steps
+1. D365 - Verify Product Part Numbers for Drafting package
+- Open Dynamics D365
+- Navigate to "Modules"
+- Navigate to "Product Information Management"
+- Navigate to "All Projects"
+- Enter JOB Number and Click "Project ID"
+- Select JOB Number
+- Click "Item Requirements"
+- Make note of the Products that are needed to create, number and release the Drawing 
+package for.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Rename Inventor Drawings (Heater/Tank Assemblies)
+- Navigate to the Inventor Vault Project directory (JOB Number)
+- Locate Drawing and right click and choose "Rename"
+- Click "Next"
+- Refer to the Engineering Design Sheets that were printed or open the file again.
+- Verify the "Can Size" for renaming the drawing.
+- Enter the New name of the Drawing (35354-01 42X12 HTR) and click "Finish"
+- Once the results of the Rename have displayed, Click "Close" and the new renaming is 
+complete.
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Get/Checkout Inventor Drawings & Assemblies
+- Checkout the proper Drawings/Assemblies within the customer vault folder.
+- Right Click and Choose "Get" to get download the local copies of the Drawings, Assemblies 
+and Parts needed for Drawing Package.
+- Choose Children and Click "OK"
+- Once Downloaded, Right click and choose "Checkout"
+- Files will be BLUE with a Checkmark next to it when checkout is complete.
+ 
+ 
+ 
+ 
+4. Open Drawings & Assemblies in Inventor
+- Open Inventor Application
+- Ensure "KEMCO VAULT" Project is Checked
+- Click the open button
+- Navigate to the "Jobs F" directory, then locate the Customer name, City State, then JOB 
+Number and open it.
+- Open "4. Drafting" folder, then "Fabs"
+- Select the items you want to open and click "Open"
+- The files should now be open
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Process History
+Process: Created September 17, 2025 at 01:28 PM, Last Updated September 24, 2025 at 
+08:39 PM
+Step History
+Step 1: D365 - Verify Product Part Numbers for Drafting package - Created September 
+17, 2025 at 08:13 PM, Updated September 17, 2025 at 08:30 PM
+Images for Step 1
+Image 1: image_ONRo6QB.png - Uploaded September 17, 2025 at 08:16 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 2: image_jfO4lID.png - Uploaded September 17, 2025 at 08:18 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 3: image_CDH6v3R.png - Uploaded September 17, 2025 at 08:18 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 4: image_QL3Co13.png - Uploaded September 17, 2025 at 08:19 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 5: image_nlPOQ3z.png - Uploaded September 17, 2025 at 08:20 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 6: image_Dm6a0Ng.png - Uploaded September 17, 2025 at 08:21 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 7: image_qJBw7Ul.png - Uploaded September 17, 2025 at 08:23 PM, Updated 
+September 23, 2025 at 06:35 PM
+Step 2: Rename Inventor Drawings (Heater/Tank Assemblies) - Created September 17, 
+2025 at 08:00 PM, Updated September 17, 2025 at 08:42 PM
+Images for Step 2
+Image 1: image_88f4p3Y.png - Uploaded September 17, 2025 at 08:10 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 2: image_49ViUwO.png - Uploaded September 17, 2025 at 08:11 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 3: image_G5u9e09.png - Uploaded September 17, 2025 at 08:12 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 5: image_gcq4vvA.png - Uploaded September 17, 2025 at 08:33 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 6: image_Wqg4CSo.png - Uploaded September 17, 2025 at 08:38 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 7: image_hDf2RMa.png - Uploaded September 17, 2025 at 08:38 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 8: image_xIG5YkE.png - Uploaded September 17, 2025 at 08:40 PM, Updated 
+September 23, 2025 at 06:35 PM
+Step 3: Get/Checkout Inventor Drawings & Assemblies - Created September 17, 2025 at 
+06:52 PM, Updated September 17, 2025 at 08:53 PM
+Images for Step 3
+Image 1: image_IuIJpxd.png - Uploaded September 17, 2025 at 08:45 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 2: image_ecMTJ2T.png - Uploaded September 17, 2025 at 08:47 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 3: image_sQIgzBd.png - Uploaded September 17, 2025 at 08:48 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 4: image_Zmhf9N1.png - Uploaded September 17, 2025 at 08:52 PM, Updated 
+September 23, 2025 at 06:35 PM
+Step 4: Open Drawings & Assemblies in Inventor - Created September 17, 2025 at 08:53 
+PM, Updated September 17, 2025 at 09:06 PM
+Images for Step 4
+Image 1: image_O72vtQc.png - Uploaded September 17, 2025 at 08:55 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 2: image_Le15b23.png - Uploaded September 17, 2025 at 08:57 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 3: image_wWS47Km.png - Uploaded September 17, 2025 at 08:58 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 4: image_IDjjcQH.png - Uploaded September 17, 2025 at 09:01 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 5: image_LySJ3wt.png - Uploaded September 17, 2025 at 09:01 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 6: image_PFaVA9Q.png - Uploaded September 17, 2025 at 09:03 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 7: image_mWiHfpo.png - Uploaded September 17, 2025 at 09:06 PM, Updated 
+September 23, 2025 at 06:35 PM
+ 
+4. Drafting - Drawing Creation/Error Checking Process
+PDF Documents
+PDF: 42-3248_SCHEMATIC_FLOW_1.pdf
+PDF: 35354_Gas_Train_Release.pdf
+PDF: 35354_Heater_Release.pdf
+PDF: 35354_Mechanical_Release.pdf
+PDF: 35354_Engineering_Design_-_rev_3.5.pdf
+PDF: 21-2702_EQUIPMENT_LAYOUT.pdf
+PDF: 42-3249_HTR_ASSY.pdf
+Steps
+1. Heater Setup Drawing Scale/Views & Part Number Assignment
+- Open .idw for current project
+- Adjust the view scale to ensure the content will fit and be readable
+- Open the Heater Assembly
+- Click "Enter Parameters" button in the iLogic Forms Panel
+- Goto "Drawing Numbers" tab on Form
+- testy test
+- Edit the Heater Final Assy part number
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Assembly Mod Piping View Representation Update
+- Open Heater Assy (ffa.iam)
+- Activate Mod Piping View for editing
+- Exclude Gas Train Assembly from Mod Piping View Representation
+
+ 
+ 
+ 
+3. Mod Piping Assembly Hose Assy Documentation
+- Edit Mod Pipe Assembly
+- Measure Hose Length, round to closest inch, then add 3" to length
+- 27.096 = 27 + 3 = 30"
+- Open Dynamics D365 and Go to "Released Products"
+- Search for "894-01-*" (Item Number search)
+- Filter for Hose Size and length
+- Select correct Hose Assembly
+- Open Assembly Form again and Select "Hose Part Number / Length" tab
+- Enter the measured Hose length and update length and Hose Part Number
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Gas Train Assembly/Drawing Initial Setup
+- Open Gas Train Assembly
+- Edit "Pilot Detail" View Representation, activate and edit it
+- Remove all components except the Pilot Detail Components
+- Navigate to Gas Train Drawing Sheet
+- Open Gas Train Template Drawing within the Customer FABS folder
+- Copy and Paste BOM and Drawing views from the template drawing to the Customer Job 
+Drawing
+- Repair any broken Balloons/Dimensions
+- Click "Open Data" form and complete form
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. Verify Inventor Heater Assembly (FFA.iam) Form Values match Engineering Documents
+- open reference files or use printouts
+- Update Ballast Packing Rings
+- Verify All Assembly form Values
+- Verify Heater Model
+- Verify Location (US, CANADA)
+- Verify Heater Diameter
+- Verify Heater Height 152" / 12 = 12.67ft = 12'
+- Verify Stack Diameter = 18"
+- Verify Application = standard (because it is not a food grade application, it is concrete)
+- Verify Material = 304 Stainless because the Spray nozzle is spec'd out as CS (Common 
+Steel)
+- Verify Burner Model (Gas Train) = Maxon #487M
+- Verify Gas Train Position = Left
+- Verify Heater Mounting = Pumped
+- Verify Gauge Cocks = NSF (Because NSF has become Standard)
+- Verify Temp Switch Material = Stainless (Per the decision to not use brass any more)
+- Verify Packaging (Mod Piping Typ) = Modular Piping (because it is now the standard)
+- Verify Mod Piping (Transducer Material) = SS316 Ends because we are no longer using 
+Brass hose ends
+- Verify Modulating Valve (Yes/No) = No (Because it is not spec'd out)
+- Verify Media Frame Height (54 Standard) 
+- Verify Gas = NG
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. Spray Nozzle and Nipple Size Verify/Update
+- Check Nipple and Spray Nozzle size on Drawing
+- Check Water Inlet Size = 2"
+- Update Spray Nozzle
+- Select Spray nozzle in the Assy model
+- Open Assy Form and click "Replace Spray Nozzle"
+- Select Local working folder
+- Select Libraries
+- Select Fittings
+- Select Spray Nozzles
+- Select Spray Nozzle Size
+- WTF WTH
+- Select Engineering Spec'd Nozzle and click "Open"
+- Update Spray Nozzle Nipple
+- Select Nipple in Assy Model
+- Click "Change Spray Nozzle Nipple Size"
+- Choose required nipple size and click Okay
+- Pull down on the spray nozzle to get the Model to update the constraints
+- Verify Spray Nozzle dimensions between Engineering Values and Model Values
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Process History
+Process: Created September 17, 2025 at 07:18 PM, Last Updated September 24, 2025 at 
+08:39 PM
+Step History
+Step 1: Heater Setup Drawing Scale/Views & Part Number Assignment - Created 
+September 18, 2025 at 03:47 PM, Updated September 19, 2025 at 09:01 PM
+Images for Step 1
+Image 1: image_HdgjwFo.png - Uploaded September 18, 2025 at 03:48 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 2: image_Xlz3kZj.png - Uploaded September 18, 2025 at 03:51 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 3: image_K3xElSx.png - Uploaded September 18, 2025 at 03:52 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 4: image_bE0lC2H.png - Uploaded September 18, 2025 at 03:53 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 5: image_6N4cHv3.png - Uploaded September 18, 2025 at 03:53 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 6: image_ZVvyfoK.png - Uploaded September 18, 2025 at 03:54 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 7: image_0MmVPMq.png - Uploaded September 18, 2025 at 03:55 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 8: image_p0L6ZMM.png - Uploaded September 18, 2025 at 05:00 PM, Updated 
+September 23, 2025 at 06:35 PM
+Step 2: Assembly Mod Piping View Representation Update - Created September 18, 
+2025 at 05:19 PM, Updated September 18, 2025 at 05:23 PM
+Images for Step 2
+Image 1: image_LGo60Ta.png - Uploaded September 18, 2025 at 05:20 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 2: image_os3aCfN.png - Uploaded September 18, 2025 at 05:21 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 3: image_jjRrqsq.png - Uploaded September 18, 2025 at 05:23 PM, Updated 
+September 23, 2025 at 06:35 PM
+Step 3: Mod Piping Assembly Hose Assy Documentation - Created September 18, 2025 
+at 05:23 PM, Updated September 18, 2025 at 05:38 PM
+Images for Step 3
+Image 1: image_B1ulXt9.png - Uploaded September 18, 2025 at 05:24 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 2: image_UWiv6YF.png - Uploaded September 18, 2025 at 05:25 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 3: image_qmL4Jtp.png - Uploaded September 18, 2025 at 05:26 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 4: image_q4hNYqh.png - Uploaded September 18, 2025 at 05:28 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 5: image_3juJGA7.png - Uploaded September 18, 2025 at 05:30 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 6: image_yErDp8D.png - Uploaded September 18, 2025 at 05:32 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 7: image_bJSxz9Y.png - Uploaded September 18, 2025 at 05:33 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 8: image_mSdu5KX.png - Uploaded September 18, 2025 at 05:35 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 9: image_pX46oh2.png - Uploaded September 18, 2025 at 05:36 PM, Updated 
+September 23, 2025 at 06:35 PM
+Step 4: Gas Train Assembly/Drawing Initial Setup - Created September 18, 2025 at 
+05:38 PM, Updated September 18, 2025 at 06:03 PM
+Images for Step 4
+Image 1: image_WxavCW2.png - Uploaded September 18, 2025 at 05:39 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 2: image_chHH3gn.png - Uploaded September 18, 2025 at 05:41 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 3: image_VLCMENB.png - Uploaded September 18, 2025 at 05:44 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 4: image_ncmJbFt.png - Uploaded September 18, 2025 at 05:45 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 5: image_Tb08TVr.png - Uploaded September 18, 2025 at 05:46 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 6: image_2y5HxIe.png - Uploaded September 18, 2025 at 05:47 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 7: image_R6aK76r.png - Uploaded September 18, 2025 at 05:48 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 8: image_hMkGROw.png - Uploaded September 18, 2025 at 05:54 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 9: image_aTN5EVh.png - Uploaded September 18, 2025 at 05:55 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 10: image_sRveek7.png - Uploaded September 18, 2025 at 05:56 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 11: image_npythPa.png - Uploaded September 18, 2025 at 05:58 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 12: image_quHVj82.png - Uploaded September 18, 2025 at 06:03 PM, Updated 
+September 23, 2025 at 06:35 PM
+Step 5: Verify Inventor Heater Assembly (FFA.iam) Form Values match Engineering 
+Documents - Created September 18, 2025 at 05:01 PM, Updated September 18, 2025 at 
+07:32 PM
+Images for Step 5
+Image 1: image_KpCs4rR.png - Uploaded September 18, 2025 at 06:49 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 2: image_z948dem.png - Uploaded September 18, 2025 at 06:49 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 3: image_TBI0HPS.png - Uploaded September 18, 2025 at 06:17 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 4: image_Bbc1YUY.png - Uploaded September 18, 2025 at 06:18 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 5: image_OfB93Ue.png - Uploaded September 18, 2025 at 06:22 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 6: image_fp0hJOD.png - Uploaded September 18, 2025 at 06:21 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 7: image_J90CyM0.png - Uploaded September 18, 2025 at 06:20 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 8: image_9YbJCda.png - Uploaded September 18, 2025 at 06:14 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 9: image_kn71riE.png - Uploaded September 18, 2025 at 07:06 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 10: image_FbSo4B5.png - Uploaded September 18, 2025 at 07:06 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 11: image_w7IFyKu.png - Uploaded September 18, 2025 at 07:13 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 12: image_O8GD2Mg.png - Uploaded September 18, 2025 at 07:12 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 13: image_XlRkBRv.png - Uploaded September 18, 2025 at 07:15 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 14: image_dOKDZBv.png - Uploaded September 18, 2025 at 07:17 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 15: image_H1lwLjn.png - Uploaded September 18, 2025 at 07:20 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 16: image_RwKuQ4R.png - Uploaded September 18, 2025 at 07:23 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 17: image_JlaMics.png - Uploaded September 18, 2025 at 07:24 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 18: image_fHQUSw5.png - Uploaded September 18, 2025 at 07:25 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 19: image_1FLR17x.png - Uploaded September 18, 2025 at 07:26 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 20: image_95R3v20.png - Uploaded September 18, 2025 at 07:29 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 21: image_pkrWwn5.png - Uploaded September 18, 2025 at 07:30 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 22: image_1is0Uk3.png - Uploaded September 18, 2025 at 07:32 PM, Updated 
+September 23, 2025 at 06:35 PM
+Files for Step 5
+File 1: 42-3248_SCHEMATIC_FLOW_1.pdf - Uploaded September 18, 2025 at 05:13 PM, 
+Updated September 23, 2025 at 06:35 PM
+File 2: 35354_Gas_Train_Release.pdf - Uploaded September 18, 2025 at 05:16 PM, Updated 
+September 23, 2025 at 06:35 PM
+File 3: 35354_Heater_Release.pdf - Uploaded September 18, 2025 at 05:16 PM, Updated 
+September 23, 2025 at 06:35 PM
+File 4: 35354_Mechanical_Release.pdf - Uploaded September 18, 2025 at 05:17 PM, 
+Updated September 23, 2025 at 06:35 PM
+File 5: 35354_Engineering_Design_-_rev_3.5.pdf - Uploaded September 18, 2025 at 06:13 
+PM, Updated September 23, 2025 at 06:35 PM
+File 6: 21-2702_EQUIPMENT_LAYOUT.pdf - Uploaded September 18, 2025 at 06:57 PM, 
+Updated September 23, 2025 at 06:35 PM
+File 7: 42-3249_HTR_ASSY.pdf - Uploaded September 18, 2025 at 07:02 PM, Updated 
+September 23, 2025 at 06:35 PM
+Step 6: Spray Nozzle and Nipple Size Verify/Update - Created September 18, 2025 at 
+07:32 PM, Updated September 19, 2025 at 09:00 PM
+Images for Step 6
+Image 1: image_DzWfEag.png - Uploaded September 18, 2025 at 07:34 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 2: image_viK1wja.png - Uploaded September 18, 2025 at 07:36 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 3: image_vcsIl4k.png - Uploaded September 18, 2025 at 07:38 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 4: image_wDGxu4M.png - Uploaded September 18, 2025 at 07:40 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 5: image_mMZUveB.png - Uploaded September 18, 2025 at 07:41 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 6: image_9tpMfKd.png - Uploaded September 18, 2025 at 07:42 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 7: image_vcjd2LE.png - Uploaded September 18, 2025 at 07:43 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 8: image_bPby7yu.png - Uploaded September 18, 2025 at 07:44 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 9: image_9dqMo2t.png - Uploaded September 18, 2025 at 07:44 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 10: image_ViWex4e.png - Uploaded September 18, 2025 at 07:45 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 11: image_tUAd3Xh.png - Uploaded September 18, 2025 at 07:45 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 12: image_dtUxxCw.png - Uploaded September 18, 2025 at 07:46 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 13: image_1lG74QY.png - Uploaded September 18, 2025 at 07:48 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 14: image_u01SVRE.png - Uploaded September 18, 2025 at 07:49 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 15: image_LB6WSje.png - Uploaded September 18, 2025 at 07:35 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 16: image_FMIk8CM.png - Uploaded September 18, 2025 at 07:55 PM, Updated 
+September 23, 2025 at 06:35 PM
+ 
+5. Drafting - Drawing Package Creation/Update from Modeling Changes
+Steps
+1. DRAFTING: BOM Updates to Heater Final/Modular Piping Sheets
+ 
+Open BOM in edit mode and expand Heater Mod Piping Assy
+ 
+Hide Mod Pipe Assy
+ 
+Hide All other components that are not part of the Mod Pipe Assy and Click OK
+ 
+Move the top view down and adjust the BOM column width and hide any blank rows 
+in the BOM
+- Open the Heater Final Sheet and open the BOM for edits
+ 
+Hide the Mod Pipe Assy Parts that are now displaying after changing the Mod Pipe 
+Drawing Sheet BOM
+- Export BOM to Excel file for verifying that BOM in inventor matches the intended BOM 
+from Engineering.
+- Save the Drawing
+ 
+2. DRAFTING: Heater Assembly Drawing Creation (.idw)
+- Sheet 1: HEATER FINAL
+ 
+[ ] Ensure all TITLEBLOCK FORMS DATA have been filled out.
+ 
+[ ] Ensure all TITLEBLOCK FORMS DATA have been filled out.
+ 
+[] Ensure Assembly Part Numbers have been completed and updated.
+ 
+[] Ensure Assembly Part Numbers have been completed and updated.
+ 
+[ ] Adjust any views to conform to clear and legible Drawing practices
+ 
+[ ] Verify all Balloons exist on sheet in the most appropriate view
+ 
+[ ] Verify BOM is reordered and renumbered
+- [ ] Verify Note: "ITEMS WITH QUANTITY 0 ARE PURCHASED FROM STEWART STAINLESS 
+AS PART OF ITEM 
+ 
+[ ] Adjust all centerlines to mate up with their component.
+ 
+Sheet 2: HEATER WELDMENT
+ 
+[ ] Adjust any views to conform to clear and legible Drawing practices
+ 
+[ ] Verify all Balloons exist on sheet in the most appropriate view
+ 
+[ ] Verify BOM is reordered and renumbered
+ 
+[ ] Verify Weld note as WELD OUTSIDE ONLY or WELD INSIDE AND OUTSIDE
+ 
+[ ] Verify the correct COUPLING WELD VIEWS are being displayed for WELD INSIDE 
+AND OUTSIDE/OUTSIDE ONLY
+ 
+[ ] Verify Note: "ITEMS WITH QUANTITY 0 ARE PURCHASED FROM STEWART 
+STAINLESS AS PART OF ITEM 
+ 
+[ ] Verify that Leader Note: WELD SEAM DISPLAYS for all appropriate views.
+ 
+[ ] Remove any duplicated 0, 90, 180, 270 deg leader callouts.
+ 
+[ ] Remove any duplicated 0, 90, 180, 270 deg leader callouts.
+- [ ] Adjust all centerlines to mate up with their component.
+ 
+[ ] If SUCTION FITTING HEIGHTS are not determined yet, hide, SUCTION FITTING 
+HEIGHT and replace it with a "*" for the dimension
+ 
+[ ] If SUCTION FITTING HEIGHTS are not determined yet, hide, SUCTION FITTING 
+HEIGHT and replace it with a "*" for the dimension
+ 
+Sheet 3: HEATER SHELL
+ 
+[ ] Adjust any views to conform to clear and legible Drawing practices
+ 
+[ ] Verify all Balloons exist on sheet in the most appropriate view
+ 
+[ ] Verify BOM is reordered and renumbered
+- [ ] Verify Note: "ITEMS WITH QUANTITY 0 ARE PURCHASED FROM STEWART STAINLESS 
+AS PART OF ITEM 
+ 
+[ ] Remove any duplicated 0, 90, 180, 270 deg leader callouts.
+ 
+[ ] Adjust all centerlines to mate up with their component.
+ 
+[ ] Adjust all centerlines to mate up with their component.
+ 
+[ ] Verify Weld note as WELD OUTSIDE ONLY or WELD INSIDE AND OUTSIDE
+- [ ] Update Weld symbols for WELDING INSIDE AND OUTSIDE/OUTSIDE ONLY
+- [ ] If FLATBARS are called out separately or as sub-assemblies, verify that all section views 
+have the appropriate balloons called out
+- Sheet 4: HEATER STACK
+ 
+[ ] Adjust any views to conform to clear and legible Drawing practices
+ 
+[ ] Adjust any views to conform to clear and legible Drawing practices
+ 
+[ ] Verify all Balloons exist on sheet in the most appropriate view
+ 
+[ ] Verify BOM is reordered and renumbered
+ 
+[ ] Remove any duplicated 0, 90, 180, 270 deg leader callouts.
+ 
+[ ] Adjust all centerlines to mate up with their component.
+- Sheet 5: SUCTION FITTING
+ 
+[ ] Adjust any views to conform to clear and legible Drawing practices
+ 
+[ ] Verify all Balloons exist on sheet in the most appropriate view
+ 
+[ ] Verify BOM is reordered and renumbered
+ 
+[ ] Adjust all centerlines to mate up with their component.
+- Sheet 6: GAS TRAIN
+ 
+[ ] Adjust any views to conform to clear and legible Drawing practices
+ 
+[ ] Verify all Balloons exist on sheet in the most appropriate view
+ 
+[ ] Verify all Balloons exist on sheet in the most appropriate view
+ 
+[ ] Verify BOM is reordered and renumbered
+- Sheet 7: MODULAR PIPING
+ 
+[ ] Adjust any views to conform to clear and legible Drawing practices
+ 
+[ ] Verify all Balloons exist on sheet in the most appropriate view
+ 
+[ ] Verify all Balloons exist on sheet in the most appropriate view
+ 
+[ ] Verify BOM is reordered and renumbered
+3. Print out Drawings & Export BOM to be checked against Engineering Long Lead BOM
+ 
+Print out Full size Drawing package
+ 
+Export Inventor Drawing BOM to excel using iLogic Export command buttons
+- Save Exported BOM to the Customers Jobs folder for the project job number
+4. Explanation-Exported Inventor Drawing BOM for heater assembly
+ 
+Printout BOM's to use for BOM matching Long Lead Items
+TO BE USED FOR CREATING DYNAMICS D365 BOM STRUCTURE
+ 
+Print Package
+ 
+Heater Final
+ 
+Heater Weldment
+ 
+Heater Shell
+ 
+Heater Stack
+ 
+Suction Fitting
+ 
+Gas Train
+- Modular Piping
+Process History
+Process: Created September 18, 2025 at 08:09 PM, Last Updated September 24, 2025 at 
+08:39 PM
+Step History
+Step 1: DRAFTING: BOM Updates to Heater Final/Modular Piping Sheets - Created 
+September 18, 2025 at 08:10 PM, Updated September 22, 2025 at 03:50 PM
+Images for Step 1
+Image 1: image_wHmmTwc.png - Uploaded September 18, 2025 at 08:28 PM, Updated 
+September 23, 2025 at 06:35 PM
+Image 2: image_r1FVUgc.png - Uploaded September 22, 2025 at 03:48 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Image 3: image_AeRQonX.png - Uploaded September 22, 2025 at 03:48 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 2)
+Image 4: image_wV7loLO.png - Uploaded September 22, 2025 at 03:49 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 3)
+Image 5: image_rMkNu9z.png - Uploaded September 22, 2025 at 03:49 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 4)
+Image 6: image_Ftngfe0.png - Uploaded September 22, 2025 at 03:50 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 6)
+Step 2: DRAFTING: Heater Assembly Drawing Creation (.idw) - Created September 22, 
+2025 at 12:35 PM, Updated September 22, 2025 at 05:14 PM
+Images for Step 2
+Image 1: image_NzhBbPD.png - Uploaded September 22, 2025 at 01:36 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 5)
+Image 2: image_qlKBMYm.png - Uploaded September 22, 2025 at 01:36 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 2)
+Image 3: image_DsLnoY0.png - Uploaded September 22, 2025 at 01:37 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 3)
+Image 4: image_71tyKoJ.png - Uploaded September 22, 2025 at 01:37 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 4)
+Image 5: image_FgCY7qx.png - Uploaded September 22, 2025 at 01:38 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 6)
+Image 6: image_kbiMhwY.png - Uploaded September 22, 2025 at 01:39 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 8)
+Image 7: image_gCfxF72.png - Uploaded September 22, 2025 at 01:40 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 9)
+Image 8: image_MxUnZLG.png - Uploaded September 22, 2025 at 01:40 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 10)
+Image 9: image_nKe8qrn.png - Uploaded September 22, 2025 at 01:41 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 11)
+Image 10: image_4d25XHK.png - Uploaded September 22, 2025 at 01:42 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 12)
+Image 11: image_FY55amF.png - Uploaded September 22, 2025 at 01:42 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 13)
+Image 12: image_esn1Bz6.png - Uploaded September 22, 2025 at 01:42 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 14)
+Image 13: image_tU3VJVy.png - Uploaded September 22, 2025 at 01:43 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 15)
+Image 14: image_74Te345.png - Uploaded September 22, 2025 at 01:44 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 16)
+Image 15: image_NDI3Qm6.png - Uploaded September 22, 2025 at 01:45 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 17)
+Image 16: image_ttpjIeG.png - Uploaded September 22, 2025 at 01:45 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 17)
+Image 17: image_mKDJF9z.png - Uploaded September 22, 2025 at 02:21 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 19)
+Image 18: image_rMU7y1u.png - Uploaded September 22, 2025 at 02:23 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 19)
+Image 19: image_R99rfjo.png - Uploaded September 22, 2025 at 02:26 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 20)
+Image 20: image_wxXVOcX.png - Uploaded September 22, 2025 at 02:27 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 21)
+Image 21: image_TBYzcGX.png - Uploaded September 22, 2025 at 02:28 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 22)
+Image 22: image_lfmWoUx.png - Uploaded September 22, 2025 at 02:28 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 23)
+Image 23: image_Nlh2Btr.png - Uploaded September 22, 2025 at 02:31 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 25)
+Image 24: image_gmHcMXP.png - Uploaded September 22, 2025 at 02:31 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 26)
+Image 25: image_Vs3wZ8o.png - Uploaded September 22, 2025 at 02:32 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 26)
+Image 26: image_gwHUAuG.png - Uploaded September 22, 2025 at 02:35 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 27)
+Image 27: image_vTGbOE8.png - Uploaded September 22, 2025 at 02:37 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 2)
+Image 28: image_0p7nF0z.png - Uploaded September 22, 2025 at 02:38 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 3)
+Image 29: image_Z0P8PcI.png - Uploaded September 22, 2025 at 02:40 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 31)
+Image 30: image_z6nEtun.png - Uploaded September 22, 2025 at 02:43 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 31)
+Image 31: image_KgNZCfv.png - Uploaded September 22, 2025 at 02:43 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 32)
+Image 32: image_DlF5dtK.png - Uploaded September 22, 2025 at 02:44 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 33)
+Image 33: image_R4fNiKi.png - Uploaded September 22, 2025 at 02:44 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 34)
+Image 34: image_nBxCvb2.png - Uploaded September 22, 2025 at 02:45 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 35)
+Image 35: image_MnZ0Se2.png - Uploaded September 22, 2025 at 02:49 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 37)
+Image 36: image_INvbXqF.png - Uploaded September 22, 2025 at 02:50 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 38)
+Image 37: image_oENkWz9.png - Uploaded September 22, 2025 at 02:50 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 39)
+Image 38: image_J0g80u5.png - Uploaded September 22, 2025 at 02:51 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 40)
+Image 39: image_uJZhJDp.png - Uploaded September 22, 2025 at 03:10 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 42)
+Image 40: image_p8Ek2uY.png - Uploaded September 22, 2025 at 03:11 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 43)
+Image 41: image_BKRxWIf.png - Uploaded September 22, 2025 at 03:12 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 44)
+Image 42: image_nQfLQJy.png - Uploaded September 22, 2025 at 03:20 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 43)
+Image 43: image_fiJd4ot.png - Uploaded September 22, 2025 at 03:26 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 46)
+Image 44: image_kJWITqh.png - Uploaded September 22, 2025 at 03:27 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 47)
+Image 45: image_vFmaWS6.png - Uploaded September 22, 2025 at 03:28 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 48)
+Image 46: image_TnfVe7q.png - Uploaded September 22, 2025 at 03:45 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 47)
+Step 3: Print out Drawings & Export BOM to be checked against Engineering Long 
+Lead BOM - Created September 22, 2025 at 05:15 PM, Updated September 22, 2025 at 
+05:24 PM
+Images for Step 3
+Image 1: image_6EY8kWv.png - Uploaded September 22, 2025 at 05:18 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Image 2: image_Scb2TLm.png - Uploaded September 22, 2025 at 05:19 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 2)
+Step 4: Explanation-Exported Inventor Drawing BOM for heater assembly - Created 
+September 22, 2025 at 05:26 PM, Updated September 22, 2025 at 05:34 PM
+Images for Step 4
+Image 1: image_xD5yAxM.png - Uploaded September 22, 2025 at 05:28 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 1)
+Image 2: image_vYQ7kUh.png - Uploaded September 22, 2025 at 05:29 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 2)
+Image 3: image_o7CxoHb.png - Uploaded September 22, 2025 at 05:30 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 3)
+Image 4: image_n0a305K.png - Uploaded September 22, 2025 at 05:30 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 4)
+Image 5: image_NXCrGsN.png - Uploaded September 22, 2025 at 05:30 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 5)
+Image 6: image_0yqNP8C.png - Uploaded September 22, 2025 at 05:31 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 6)
+Image 7: image_TDBLD5G.png - Uploaded September 22, 2025 at 05:31 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 7)
+Image 8: image_ciympre.png - Uploaded September 22, 2025 at 05:31 PM, Updated 
+September 23, 2025 at 06:35 PM (Associated with substep 8)
+ 
+6. D365 BOM Upload Process
+Steps
+1. Export Inventor BOM
+ 
+Open Inventor .idw that you need the BOM exported for from either Inventor or 
+Vault
+ 
+Close the default forms that open up
+ 
+Click on "EXPORT BOM FOR DYNAMICS"
+ 
+if you get the error in the image, you need to close the previously opened excel file 
+before running again.
+ 
+The Excel file should open on it's own
+ 
+Select all tabs in the excel spreadsheet
+ 
+Press CTRL+P to print preview
+ 
+Click "Page Setup" -> "Header/Footer" tab
+ 
+Click "Custom Header" button
+ 
+Insert the Tab name below the filename
+ 
+Click Okay, then Okay to close Page setup
+ 
+Print to your choice of printers
+ 
+Click "File" -> "Save as"
+ 
+Click "Browse" then choose "Jobs" directory
+ 
+Choose Customer directory -> Customer City a& State -> Job number -> Drafting -> 
+ 
+Choose Customer directory -> Customer City a& State -> Job number -> Drafting -> 
+ 
+Choose Customer directory -> Customer City a& State -> Job number -> Drafting -> 
+ 
+Choose Customer directory -> Customer City a& State -> Job number -> Drafting -> 
+ 
+Choose the proper Folder for the job you are doing -> "Save"
+Process History
+Process: Created September 24, 2025 at 04:51 PM, Last Updated September 24, 2025 at 
+08:39 PM
+Step History
+Step 1: Export Inventor BOM - Created September 24, 2025 at 04:52 PM, Updated 
+September 24, 2025 at 08:28 PM
+Images for Step 1
+Image 1: image_XtpYUTV.png - Uploaded September 24, 2025 at 07:48 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 5)
+Image 2: image_Ka0cnGH.png - Uploaded September 24, 2025 at 07:46 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 1)
+Image 3: image_T1F6JTH.png - Uploaded September 24, 2025 at 07:47 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 3)
+Image 4: image_Wc8SyvN.png - Uploaded September 24, 2025 at 07:48 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 6)
+Image 5: image_F25i4hT.png - Uploaded September 24, 2025 at 08:04 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 2)
+Image 6: image_LgPrICN.png - Uploaded September 24, 2025 at 08:06 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 4)
+Image 7: image_Tjb0KuM.png - Uploaded September 24, 2025 at 08:10 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 7)
+Image 8: image_q0oxIqN.png - Uploaded September 24, 2025 at 08:12 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 8)
+Image 9: image_D301do7.png - Uploaded September 24, 2025 at 08:13 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 9)
+Image 10: image_dGGpNGF.png - Uploaded September 24, 2025 at 08:16 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 10)
+Image 11: image_mTliiqg.png - Uploaded September 24, 2025 at 08:17 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 11)
+Image 12: image_rT3XhfN.png - Uploaded September 24, 2025 at 08:19 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 12)
+Image 13: image_cT6Fiju.png - Uploaded September 24, 2025 at 08:21 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 13)
+Image 14: image_ouD7Yyd.png - Uploaded September 24, 2025 at 08:23 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 14)
+Image 15: image_76UIVZQ.png - Uploaded September 24, 2025 at 08:25 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 15)
+Image 16: image_jkRKDzI.png - Uploaded September 24, 2025 at 08:25 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 15)
+Image 17: image_wRLxA9q.png - Uploaded September 24, 2025 at 08:26 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 15)
+Image 18: image_cBPLLV4.png - Uploaded September 24, 2025 at 08:26 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 15)
+Image 19: image_GH4zi6Y.png - Uploaded September 24, 2025 at 08:28 PM, Updated 
+September 24, 2025 at 08:30 PM (Associated with substep 16)
